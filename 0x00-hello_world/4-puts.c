@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /*first code in C -ALX */
 int main(void)
 {
